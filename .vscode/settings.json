@@ -18,5 +18,8 @@
   "peacock.color": "#215732",
   "git.scanRepositories": [
 		"/Users/susancorpuz/Sites/workspace/fieldworkapp"
-	]
+  ],
+  "cSpell.words": [
+    "Fieldworkapp",
+  ]
 }
